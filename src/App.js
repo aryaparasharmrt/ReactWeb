@@ -14,6 +14,7 @@ function App() {
         <p>Created Arya's Branch</p>
         <p>Changes in branch1</p>
         <p>Some Content</p>
+        <p>This change is from my local master branch</p>
       </header>
     </div>
   );
