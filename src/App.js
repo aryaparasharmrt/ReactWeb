@@ -15,6 +15,7 @@ function App() {
         <p>Changes in branch1</p>
         <p>Some Content</p>
         <p>This change is from my local master branch take it.</p>
+        <p>This is my new text</p>
       </header>
     </div>
   );
